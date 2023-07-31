@@ -8,7 +8,7 @@ jjcavallo@wayne.edu | [jeremycavallo.com](https://jeremycavallo.com)
 
 #### Current Projects
 - [GenerativeAAC](https://github.com/jjcavallo5/generativeaac) - A stable diffusion model for AAC symbol generation
-- [SpeakUp!](https://github.com/jjcavallo5/bme_capstone) - A mobile AAC application, built with React Native
+- SpeakUp! - A mobile AAC application, built with React Native
 
 #### Skills
 ![Static Badge](https://img.shields.io/badge/Python-gray?logo=python&logoColor=%233776AB)
