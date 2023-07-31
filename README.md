@@ -1,5 +1,5 @@
 # Jeremy Cavallo
-jjcavallo@wayne.edu | [jeremycavallo.com](jeremycavallo.com)
+jjcavallo@wayne.edu | [jeremycavallo.com](https://jeremycavallo.com)
 
 - Bachelors of Science, Computer Science, Wayne State University 2023
 - Bachelors of Science, Biomedical Engineering, Wayne State University 2023
