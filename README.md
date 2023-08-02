@@ -11,7 +11,7 @@ jjcavallo@wayne.edu | [jeremycavallo.com](https://jeremycavallo.com)
 - SpeakUp! - A mobile AAC application, built with React Native
 
 #### Previous Projects
-- [VR Medical Training Tool](https://github.com/4996wsu/vr-training-tool) - A VR game for CPR training and more!
+- VR Medical Training Tool - A VR game for CPR training and more!
   - 🌟 Winner of Engineering Design Day at Wayne State 🌟
 - [Chess Clock](https://play.google.com/store/apps/details?id=com.chessclock_jcbball5&pli=1) - A chess clock for Android
 - [Patient Passport](https://github.com/WSU-4110/PatientPassport) - A mobile application for easily storing and passing basic patient information
