@@ -22,7 +22,7 @@ Just building for fun
 - 👷 [Building Contractory](https://jeremycavallo.com/blog/building-contractory) - Behind the scenes of what it took to build our mobile platform
 
 #### Connect
-[![Twitter](https://img.shields.io/badge/@jeremy_cavallo-black?logo=x)](https://twitter.com/jeremy_cavallo)
-[![Blog](https://img.shields.io/badge/jeremycavallo.com-black?logo=gnu-bash)](https://jeremycavallo.com)
-[![LinkedIn](https://img.shields.io/badge/Jeremy_Cavallo-black?logo=linkedIn)](https://www.linkedin.com/in/jeremycavallo)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jjcavallo5)
+[![Twitter](https://img.shields.io/badge/@jeremy_cavallo-gray?logo=x)](https://twitter.com/jeremy_cavallo)
+[![Blog](https://img.shields.io/badge/Blog-gray?logo=gnu-bash)](https://jeremycavallo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?logo=linkedIn)](https://www.linkedin.com/in/jeremycavallo)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/jjcavallo5)
