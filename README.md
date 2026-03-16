@@ -26,7 +26,7 @@ Just building for fun
 
 #### Connect
 
-[![Twitter](https://img.shields.io/badge/@jeremy_cavallo-gray?logo=x)](https://twitter.com/jeremy_cavallo)
+[![Twitter](https://img.shields.io/badge/Twitter-gray?logo=x)](https://twitter.com/jeremy_cavallo)
 [![Blog](https://img.shields.io/badge/Blog-gray?logo=gnu-bash)](https://jeremycavallo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?logo=linkedIn)](https://www.linkedin.com/in/jeremycavallo)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/jjcavallo5)
