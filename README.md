@@ -20,6 +20,7 @@ Just building for fun
 
 #### Recent Blog Posts
 
+- ☘️ [St. Patty's in SF](https://jeremycavallo.com/blog/st-pattys-in-sf) - My thoughts on productivity and the rise of Token Anxiety
 - 💻 [Learning Astro](https://jeremycavallo.com/blog/learning-astro) - Learning Astro while building my website
 - 🔁 [Convex Migrations At Scale](https://jeremycavallo.com/blog/convex-migrations-at-scale) - A deep-dive into the world of database migrations for production-level mobile platforms
 - 👷 [Building Contractory](https://jeremycavallo.com/blog/building-contractory) - Behind the scenes of what it took to build our mobile platform
