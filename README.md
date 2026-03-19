@@ -7,7 +7,6 @@
 ![React](https://img.shields.io/badge/React-gray?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
 ![Rust](https://img.shields.io/badge/Rust-gray?logo=rust)
-![Terminal](https://img.shields.io/badge/Terminal-gray?&logo=gnu-bash)
 
 Just building for fun
 
