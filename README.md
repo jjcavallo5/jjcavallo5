@@ -13,6 +13,7 @@ Just building for fun
 #### Current Projects
 
 - 🛠️ [Contractory](https://contractory-app.com) - An online marketplace for home renovation
+- 🥦 [Praxis](https://github.com/jjcavallo5/praxis) - Fueling and nutrition planner and tracker, designed for endurance athletes
 - 🦈 [Fin](https://github.com/jjcavallo5/fin) - Fin - financial automation CLI, powered by Plaid
 - 🎨 [The Art of Code](https://github.com/jjcavallo5/the-art-of-code) - Coding is an art. No AI, no dependencies, just the code
 - 📱 [Native Agent](https://github.com/jjcavallo5/native-agent) - AI model feedback tool for mobile app development
